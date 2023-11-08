@@ -7,3 +7,6 @@ to drive a register car on Singapoore roads for 10 years.
 The data source is from Land Transport Data Mall under search for COE
 Link as below
 https://datamall.lta.gov.sg/content/datamall/en/search_datasets.html?searchText=COE%20Data
+
+The 2nd data set is on car sales by manufacturers from 2011 to 2012.
+
